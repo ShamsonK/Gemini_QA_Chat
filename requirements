@@ -1,0 +1,5 @@
+# requirements
+
+streamlit
+google-generativeai
+python-dotenv
