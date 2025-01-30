@@ -19,7 +19,7 @@ def get_gemini_response(question):
 
 st.set_page_config(page_title="Q&A Chat Demo")
 
-st.header("Gemini QA Chat App")
+st.header("Q&A ChatBot")
 
 # Initialize session state for chat history of it doesn't exist
 if 'chat_history' not in st.session_state:
